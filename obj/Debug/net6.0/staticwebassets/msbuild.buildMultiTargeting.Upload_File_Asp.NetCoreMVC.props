@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Upload_File_Asp.NetCoreMVC.props" />
+</Project>
